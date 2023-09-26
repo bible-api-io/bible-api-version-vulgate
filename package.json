@@ -1,6 +1,6 @@
 {
   "name": "@bible-api/bible-api-version-vulgate",
-  "version": "1.0.0-pre.0",
+  "version": "1.0.0",
   "description": "Latin Vulgate for @bible-api/bible-api.",
   "keywords": [
     "bible-api",
